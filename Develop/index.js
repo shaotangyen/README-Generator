@@ -119,7 +119,7 @@ const generateHTML = function (answers) {
 
 ${answers.description}
 
-Table of Contents
+## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributin](#contributing)
@@ -192,8 +192,8 @@ Syntax Instruction:
 `);
     
     promptUser()
-        .then((answers) => writeFileAsync('README_FILE.md', generateHTML(answers)))
-        .then(() => console.log("README_FILE.md is created."))
+        .then((answers) => writeFileAsync('README.md', generateHTML(answers)))
+        .then(() => console.log("README.md is created."))
         .catch((err) => console.error(err));
 }
 
