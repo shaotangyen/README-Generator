@@ -163,9 +163,8 @@ If you have any additional questions, please reach me at: [${answers.email}](mai
 
 ## License
 
-\`\`\`md
 ${licenseText}
-\`\`\``;
+`;
     
     return readmeText;
 }
