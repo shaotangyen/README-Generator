@@ -16,25 +16,25 @@ A weather app that shows the current weather and future weather conditions
 
 ## Installation
 
-Do not need to install. Click [here](https://shaotangyen.github.io/weather-forecast/) to open it with a browser
+Do not need to install. Click [here](https://shaotangyen.github.io/weather-forcast/) to open it with a browser
 
 <a name="usage"></a>
 
 ## Usage
 
-1. Use the **Search** function to search for a city<br>2. Use the history list to check out previous searches
+Use the **Search** function to search for a city; use the history list to check out previous searches
 
 <a name="contributing"></a>
 
 ## Contributing
 
-Feel free to distribute and share the app with your friends and family
+Feel free to distribute and share with your friends and family
 
 <a name="tests"></a>
 
 ## Tests
 
-Type "Sydney" as a test case to show the current weather and future weather of Sydney
+Type "Sydney" to check out the current weather and future weather of Sydney as a test case
 
 <a name="questions"></a>
 
@@ -48,7 +48,6 @@ If you have any additional questions, please reach me at: [shaotang.yen02@gmail.
 
 ## License
 
-```md
 Copyright 2021 shaotangyen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -56,4 +55,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```

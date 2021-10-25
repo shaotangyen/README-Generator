@@ -179,7 +179,6 @@ function init() {
     console.log(`This is a README.md file generator. Please enter the information required below to generate the file.
 
 Syntax Instruction:
-- Use <br> at the end of a line to break a new line
 - Use [Display Text](https://URL) to insert an external link
 - Use **Display Text** to display a bold text
 - Use *Display Text* to display a italicized text

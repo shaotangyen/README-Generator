@@ -5,17 +5,17 @@
 This is a README file generator. The app uses Node.js and asks user to input their project info in order to generate a complete README file.
 
 ## Table of Contents
-1. [Installation](#installation)
+1. [Setup](#setup)
 2. [The design](#design)
 3. [Links](#links)
 4. [Demo Walkthrough](#walthrough)
 5. [License](#license)
 
-<a name="installation"></a>
+<a name="setup"></a>
 
-## Installation
+## Setup
 
-Node.js is required. Type "node index.js" in the command line under the Develop folder to generate a complete README under the Develop folder.
+Node.js is required. Type "node index.js" in the command line under the Develop folder and follow the steps to generate a complete README in the Develop folder.
 
 <a name="design"></a>
 
@@ -37,7 +37,7 @@ Please check out [Github Page](https://github.com/shaotangyen/README-Generator) 
 
 ## Demo Walkthrough
 
-The following video demonstrates the README generator: [Click to watch](https://drive.google.com/file/d/1Jq87RZKCRHIkigOxiSuVjELqQ70VcJfa/view?usp=sharing).
+The following video demonstrates the README generator: [Click to watch](https://drive.google.com/file/d/1Bvix3SqSupm_HH_YFEVmPhmltPRNlDPS/view?usp=sharing).
 
 <a name="license"></a>
 
