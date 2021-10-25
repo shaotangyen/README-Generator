@@ -7,7 +7,7 @@ A weather app that shows the current weather and future weather conditions
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contributin](#contributing)
+3. [Contribution](#contributing)
 4. [Tests](#tests)
 5. [Questions](#questions)
 6. [License](#license)
@@ -20,25 +20,25 @@ Do not need to install. Click [here](https://shaotangyen.github.io/weather-forec
 
 <a name="usage"></a>
 
-## Usage
+## 💡 Usage
 
 Use the **Search** function to search for a city; use the history list to check out previous searches
 
 <a name="contributing"></a>
 
-## Contributing
+## 💡 Contributing
 
 Feel free to distribute and share with your friends and family
 
 <a name="tests"></a>
 
-## Tests
+## 💡 Tests
 
 Type "Sydney" to check out the current weather and future weather of Sydney as a test case
 
 <a name="questions"></a>
 
-## Questions
+## 💡 Questions
 
 Please visit the Github page for additional info: [@shaotangyen](https://github.com/shaotangyen)
 
@@ -46,7 +46,7 @@ If you have any additional questions, please reach me at: [shaotang.yen02@gmail.
 
 <a name="license"></a>
 
-## License
+## 💡 License
 
 Copyright 2021 shaotangyen
 

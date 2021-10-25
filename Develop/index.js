@@ -128,31 +128,31 @@ ${answers.description}
 
 <a name="installation"></a>
 
-## Installation
+## 💡 Installation
 
 ${answers.installation}
 
 <a name="usage"></a>
 
-## Usage
+## 💡 Usage
 
 ${answers.usage}
 
 <a name="contributing"></a>
 
-## Contributing
+## 💡 Contributing
 
 ${answers.contributing}
 
 <a name="tests"></a>
 
-## Tests
+## 💡 Tests
 
 ${answers.tests}
 
 <a name="questions"></a>
 
-## Questions
+## 💡 Questions
 
 Please visit the Github page for additional info: [@${answers.githubUsername}](https://github.com/${answers.githubUsername})
 
@@ -160,7 +160,7 @@ If you have any additional questions, please reach me at: [${answers.email}](mai
 
 <a name="license"></a>
 
-## License
+## 💡 License
 
 ${licenseText}
 `;
