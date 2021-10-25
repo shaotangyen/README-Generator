@@ -1,11 +1,10 @@
 // TODO: Include packages needed for this application
-
 const fs = require('fs');
 const inquirer = require('inquirer');
 const util = require('util');
-
 const writeFileAsync = util.promisify(fs.writeFile);
 
+// List of questions to ask the user and gather their input using inquirer
 const promptUser = () => {
     return inquirer.prompt([
         {
@@ -110,7 +109,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     }
 }
 
-const generateHTML = function (answers) {
+// Main function to generate README text using the user input parameter
+const generateREADMEText = function (answers) {
     var badgeText = getLicenseBadgeText(answers.license);
     var licenseText = getLicenseText(answers.license, answers.githubUsername);
     var readmeText = `${badgeText}
@@ -171,14 +171,11 @@ ${licenseText}
 }
 
 // TODO: Create an array of questions for user input
-const questions = [];
+//const questions = [];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
+//function writeToFile(fileName, data) {}
 
-}
-
-// TODO: Create a function to initialize app
 function init() {
     console.log(`This is a README.md file generator. Please enter the information required below to generate the file.
 
@@ -192,7 +189,7 @@ Syntax Instruction:
 `);
     
     promptUser()
-        .then((answers) => writeFileAsync('README.md', generateHTML(answers)))
+        .then((answers) => writeFileAsync('README.md', generateREADMEText(answers)))
         .then(() => console.log("README.md is created."))
         .catch((err) => console.error(err));
 }

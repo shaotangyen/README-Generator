@@ -1,55 +1,50 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Weather App
+# README GENERATOR
 
-A weather app that shows the current weather and future weather conditions
+This is a README file generator. The app uses Node.js and asks user to input their project info in order to generate a complete README file.
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributin](#contributing)
-4. [Tests](#tests)
-5. [Questions](#questions)
-6. [License](#license)
+2. [The design](#design)
+3. [Links](#links)
+4. [Demo Walkthrough](#walthrough)
+5. [License](#license)
 
 <a name="installation"></a>
 
 ## Installation
 
-Do not need to install. Click [here](https://shaotangyen.github.io/weather-forecast/) to open it with a browser
+Node.js is required. Type "node index.js" in the command line under the Develop folder to generate a complete README under the Develop folder.
 
-<a name="usage"></a>
+<a name="design"></a>
 
-## Usage
+## The design
 
-1. Use the **Search** function to search for a city<br>2. Use the history list to check out previous searches
+* All codes are contained in the index.js file.
+* Uses inquirer for asking questions and get user input.
+* Uses util for file async.
+* Uses fs to write string to a file.
+* Uses a promptUser function to store all questions.
 
-<a name="contributing"></a>
+<a name="links"></a>
 
-## Contributing
+## Links
 
-Feel free to distribute and share the app with your friends and family
+Please check out [Github Page](https://github.com/shaotangyen/README-Generator) for the app.
 
-<a name="tests"></a>
+<a name="walthrough"></a>
 
-## Tests
+## Demo Walkthrough
 
-Type "Sydney" as a test case to show the current weather and future weather of Sydney
-
-<a name="questions"></a>
-
-## Questions
-
-Please visit the Github page for additional info: [@shaotangyen](https://github.com/shaotangyen)
-
-If you have any additional questions, please reach me at: [shaotang.yen02@gmail.com](mailto:shaotang.yen02@gmail.com)
+The following video demonstrates the README generator: [Click to watch](https://drive.google.com/file/d/1Jq87RZKCRHIkigOxiSuVjELqQ70VcJfa/view?usp=sharing).
 
 <a name="license"></a>
 
 ## License
 
 ```md
-Copyright 2021 shaotangyen
+Copyright 2021 Shao Yen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
