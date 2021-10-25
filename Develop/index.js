@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
 const util = require('util');
@@ -168,12 +167,6 @@ ${licenseText}
     
     return readmeText;
 }
-
-// TODO: Create an array of questions for user input
-//const questions = [];
-
-// TODO: Create a function to write README file
-//function writeToFile(fileName, data) {}
 
 function init() {
     console.log(`This is a README.md file generator. Please enter the information required below to generate the file.
