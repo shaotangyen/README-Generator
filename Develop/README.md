@@ -14,7 +14,7 @@ A weather app that shows the current weather and future weather conditions
 
 <a name="installation"></a>
 
-## Installation
+## 💡 Installation
 
 Do not need to install. Click [here](https://shaotangyen.github.io/weather-forecast/) to open it with a browser
 
